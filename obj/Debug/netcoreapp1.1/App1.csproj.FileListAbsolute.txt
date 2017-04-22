@@ -1,0 +1,8 @@
+/Users/angelosemedo/Documents/Workspace/DotNet/App1/bin/Debug/netcoreapp1.1/App1.deps.json
+/Users/angelosemedo/Documents/Workspace/DotNet/App1/bin/Debug/netcoreapp1.1/App1.runtimeconfig.json
+/Users/angelosemedo/Documents/Workspace/DotNet/App1/bin/Debug/netcoreapp1.1/App1.runtimeconfig.dev.json
+/Users/angelosemedo/Documents/Workspace/DotNet/App1/bin/Debug/netcoreapp1.1/App1.dll
+/Users/angelosemedo/Documents/Workspace/DotNet/App1/bin/Debug/netcoreapp1.1/App1.pdb
+/Users/angelosemedo/Documents/Workspace/DotNet/App1/obj/Debug/netcoreapp1.1/App1.AssemblyInfo.cs
+/Users/angelosemedo/Documents/Workspace/DotNet/App1/obj/Debug/netcoreapp1.1/App1.dll
+/Users/angelosemedo/Documents/Workspace/DotNet/App1/obj/Debug/netcoreapp1.1/App1.pdb
